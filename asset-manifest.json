@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/parcial1_frontEnd3/static/css/main.8bff3ecd.chunk.css",
+    "main.js": "/parcial1_frontEnd3/static/js/main.c48fa7b4.chunk.js",
+    "main.js.map": "/parcial1_frontEnd3/static/js/main.c48fa7b4.chunk.js.map",
+    "runtime-main.js": "/parcial1_frontEnd3/static/js/runtime-main.6b5d66b0.js",
+    "runtime-main.js.map": "/parcial1_frontEnd3/static/js/runtime-main.6b5d66b0.js.map",
+    "static/js/2.aa9f2cdf.chunk.js": "/parcial1_frontEnd3/static/js/2.aa9f2cdf.chunk.js",
+    "static/js/2.aa9f2cdf.chunk.js.map": "/parcial1_frontEnd3/static/js/2.aa9f2cdf.chunk.js.map",
+    "index.html": "/parcial1_frontEnd3/index.html",
+    "static/css/main.8bff3ecd.chunk.css.map": "/parcial1_frontEnd3/static/css/main.8bff3ecd.chunk.css.map",
+    "static/js/2.aa9f2cdf.chunk.js.LICENSE.txt": "/parcial1_frontEnd3/static/js/2.aa9f2cdf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b5d66b0.js",
+    "static/js/2.aa9f2cdf.chunk.js",
+    "static/css/main.8bff3ecd.chunk.css",
+    "static/js/main.c48fa7b4.chunk.js"
+  ]
+}
