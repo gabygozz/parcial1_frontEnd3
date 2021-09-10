@@ -1,3 +1,9 @@
+### Entregable FrontEnd III - Primer Parcial 
+
+Link GitHub Pages: https://gabygozz.github.io/parcial1_frontEnd3/ \
+Link CodeSandbox: https://codesandbox.io/s/github/gabygozz/parcial1_frontEnd3
+#
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
